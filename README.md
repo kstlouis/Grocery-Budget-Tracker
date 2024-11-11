@@ -2,7 +2,7 @@
 
 I made a spreadsheet for tracking our monthly spend on groceries, but found the process for updating it to be tedious. 
 
-So, I wrote a quick and dirty iOS Shortcut for adding new items.
+So, I wrote a quick and dirty iOS Shortcut for adding new items. No need to stash receipts for months in a drawer -- just enter it from your phone right away. 
 
 # Setup
 - Download the Numbers document template from this repo
