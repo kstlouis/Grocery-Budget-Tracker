@@ -5,10 +5,10 @@ I made a spreadsheet for tracking our monthly spend on groceries, but found the 
 So, I wrote a quick and dirty iOS Shortcut for adding new items.
 
 # Setup
-- Download the Numbers document template
+- Download the Numbers document template from this repo
 - Save a new copy to your iCloud, name it whatever you want (default is "Budget.numbers")
-- Add the Shortcut to your library, then (optionally) add it to your iPhone's home screen for easy access
-- When you run the shortcut for the first time, select the .number document when prompted; then enter the specific sheet and table names (defaults are `Groceries` and `Transactions`)
+- Add the [Shortcut](https://www.icloud.com/shortcuts/f6f39d41740e4175a7421a4e8eb21fb1) to your library, then (optionally) add it to your iPhone's home screen for easy access
+- When you run the shortcut for the first time, select the .numbers document when prompted; then enter the specific sheet and table names (defaults are `Groceries` and `Transactions`)
 
 # How it Works
 
