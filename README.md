@@ -30,3 +30,5 @@ https://www.icloud.com/shortcuts/f6f39d41740e4175a7421a4e8eb21fb1
 
 ## Shortcut Changelog:
 _Nov 11_: Initial release
+
+_Nov 11_: v1.1: slight tweaks to row add behaviour; typo fix
